@@ -9,7 +9,7 @@ namespace LAB6
 public class OrdinaryCalc
     {
         private double num1;
-        private double num2;
+        private double num2; 
 
         public OrdinaryCalc()
         {
